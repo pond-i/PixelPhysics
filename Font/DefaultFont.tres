@@ -1,0 +1,10 @@
+[gd_resource type="DynamicFont" load_steps=2 format=2]
+
+[sub_resource type="DynamicFontData" id=1]
+font_path = "res://Font/PixelRPG.ttf"
+
+[resource]
+size = 6
+extra_spacing_bottom = 2
+extra_spacing_space = -4
+font_data = SubResource( 1 )
